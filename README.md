@@ -99,3 +99,9 @@
 ![Windows](https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kalilinux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<br>
+<br>
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaktomar2031&show_icons=true&theme=dark&locale=en&layout=compact" alt="deepaktomar2031" /></p>
+<p align="right"><img  width="45%" align="right"src="https://github-readme-stats.vercel.app/api?username=deepaktomar2031&show_icons=true&theme=dark&locale=en" alt="deepaktomar2031" /></p>
