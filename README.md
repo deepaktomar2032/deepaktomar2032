@@ -24,7 +24,7 @@
 
 -   🔭 I’m currently working at Verkstedt GmbH as Senior Backend Engineer
 
--   💻 Interested in Programming, Security & Blockchain technology
+-   💻 Interested in Programming, Security Gaming & Blockchain technology
 
 -   💬 Ask me about **Javascript, Typescript, NodeJS, Java**
 
