@@ -57,7 +57,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/microsoftsqlserver-%23CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/amazondynamodb-%234053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Deployment
