@@ -47,10 +47,13 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs)
+![KoaJS](https://img.shields.io/badge/koa-%2333333D?style=for-the-badge&logo=koa)
 ![Java](https://img.shields.io/badge/Java-%235586A4?style=for-the-badge&logo=java)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/microsoftsqlserver-%23CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/amazondynamodb-%234053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
@@ -63,11 +66,11 @@
 
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-%23343434?style=for-the-badge&logo=circleci)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![TeamCity](https://img.shields.io/badge/teamcity-%23000000?style=for-the-badge&logo=teamcity)
 
 ### Communication
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/apachekafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Documentation
@@ -91,6 +94,7 @@
 ### Miscellaneous
 ![Jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182?style=for-the-badge&logo=jasmine)
 ![NPM](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Web pack](https://img.shields.io/badge/webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
