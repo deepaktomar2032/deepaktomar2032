@@ -1,0 +1,7 @@
+#!/bin/bash
+cat sections/header.md \
+    sections/about.md \
+    sections/technologies.md \
+    sections/stats.md > README.md
+
+git add README.md
